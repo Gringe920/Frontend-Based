@@ -11,7 +11,7 @@
 
 ## [Git](./Git)
 
-    - tips.md 工作日常容易忘记的点
+    - [tips.md](./Git/tips.md) 工作日常容易忘记的点
 
 ## HTML
 
@@ -19,14 +19,17 @@
 
 ## JAVASCRIPT
 
-## Linux
-    - tips.md 工作日常容易忘记的点
+## [Linux](./Linux)
+    - [tips.md](./Linux/tips.md) 工作日常容易忘记的点
 
 ## Node
 
 ## React
 
-## Vue
+## Vue(./Vue)
+
+    - [生命周期](./Vue/生命周期.md)
+    - [vue实例属性、方法、事件](./Vue/vue实例属性、方法、事件.md)
 
 ## Webpack
 
