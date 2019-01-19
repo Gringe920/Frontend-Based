@@ -11,7 +11,7 @@
 
 ## [Git](./Git)
 
-    - [tips.md](./Git/tips.md) 工作日常容易忘记的点
+    - tips.md 工作日常容易忘记的点
 
 ## HTML
 
