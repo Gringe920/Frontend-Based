@@ -20,7 +20,7 @@
 
 ## [JAVASCRIPT](./JAVASCRIPT)
 - 设计模式
-- [slice与splice] (./JAVASCRIPT/slice与splice.md)
+- [slice与splice](./JAVASCRIPT/slice与splice.md)
 
 ## [Linux](./Linux)
 - [tips](./Linux/tips.md)  工作日常容易忘记的点
