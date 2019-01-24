@@ -2,6 +2,7 @@
 
 ## [CSS](./CSS/)
 - sass
+- [解决inline-block的white-space](./CSS/解决inline-block的white-space.md)
 
 ## [ES6](./ES6/)
 - 解构
@@ -21,6 +22,7 @@
 ## [JAVASCRIPT](./JAVASCRIPT)
 - 设计模式
 - [slice与splice](./JAVASCRIPT/slice与splice.md)
+- [数据类型](./JAVASCRIPT/数据类型.md)
 
 ## [Linux](./Linux)
 - [tips](./Linux/tips.md)  工作日常容易忘记的点
