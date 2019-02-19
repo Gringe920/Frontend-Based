@@ -4,4 +4,4 @@
     - pending 初始
     - fulfilled 成功
     - rejected 失败
-    - settled 
+    - settled
