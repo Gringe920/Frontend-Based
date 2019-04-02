@@ -2,6 +2,7 @@
 
 继承`Widget`函数，重写了`createElement()`方法。
 用于不维护状态的场景，通常在build方法中通过嵌套其他`Widget`来构建UI。
+它的属性都不可变---值都是final
 
 # StatefulWidget
 
@@ -11,7 +12,7 @@
 # state类
 
 ## state的生命周期
-
+ 
 - initState
 
 每个widget只调用一次，这里可以做一些初始化动作、订阅子树的事件通知

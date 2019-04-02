@@ -1,0 +1,19 @@
+{
+  "name": "frontend-based",
+  "version": "1.0.0",
+  "description": "- sass\r - [解决inline-block的white-space](./CSS/解决inline-block的white-space.md)",
+  "main": "readme-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gringe920/Frontend-Based.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gringe920/Frontend-Based/issues"
+  },
+  "homepage": "https://github.com/Gringe920/Frontend-Based#readme"
+}
