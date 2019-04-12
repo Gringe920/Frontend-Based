@@ -28,6 +28,7 @@
 - [slice与splice](./JAVASCRIPT/slice与splice.md)
 - [数据类型](./JAVASCRIPT/数据类型.md)
 - [函数防抖与函数节流](./JAVASCRIPT/函数防抖与函数节流.md)
+
 ## [Linux](./Linux)
 
 - [tips](./Linux/tips.md)  工作日常容易忘记的点
